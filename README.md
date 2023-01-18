@@ -1,1 +1,2 @@
-# John-s-Portfolio
+# portfilo
+Vüsal Hüseynov - Portfilo 
